@@ -10,8 +10,17 @@ This Python project allows you to download audio from YouTube videos, convert it
 - Automatically saves the converted MP3 files with custom names in a designated folder.
 
 ## Folder Structure
-SONGS DOWNLOAD ├── pycache ├── mp3_folder/ # Folder where converted MP3 files are saved ├── venv/ # Python virtual environment (optional) ├── .gitignore ├── main.py # Main script to download and convert songs ├── mp3_convertor.py # Script for audio conversion ├── requirements.txt # Python dependencies ├── song_list.py # List of songs to download
-
+```
+SONGS DOWNLOAD
+            ├── pycache
+            ├── mp3_folder/ # Folder where converted MP3 files are saved
+            ├── venv/ # Python virtual environment (optional)
+            ├── .gitignore
+            ├── main.py # Main script to download and convert songs
+            ├── mp3_convertor.py # Script for audio conversion
+            ├── requirements.txt # Python dependencies
+            ├── song_list.py # List of songs to download
+```
 
 ## Prerequisites
 - Python 3.7 or higher
