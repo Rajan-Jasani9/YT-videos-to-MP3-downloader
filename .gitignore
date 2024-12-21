@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django specific
+*.log
+db.sqlite3
+media/
+static/
+
+# VSCode
+.vscode/
+
+# Pytest cache
+.pytest_cache/
